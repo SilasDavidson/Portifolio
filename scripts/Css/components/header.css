@@ -43,7 +43,7 @@ header {
   
   header .header__right .header__image .background {
     position: absolute;
-    top: -4rem;
+    top: -1;
     right: -2.5rem;
     z-index: -1;
   }
@@ -58,4 +58,5 @@ header {
       margin: 2rem auto 4rem;
     }
   }
+  .btn
   
